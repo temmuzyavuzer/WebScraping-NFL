@@ -1,0 +1,60 @@
+1652459041031	geckodriver	INFO	Listening on 127.0.0.1:50661
+1652459044126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50662" "-no-remote" "-profile" "C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofileJiBYWO"
+1652459044873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofileJiBYWO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50662/devtools/browser/f966b98b-9d3c-4d09-920d-df38fafd9481
+1652459047085	Marionette	INFO	Listening on port 50669
+1652459047298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/41/cmp2ui-en.js, line 2: TypeError: document.body is null
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/41/cmp2ui-en.js, line 2: TypeError: document.body is null
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/41/cmp2ui-en.js, line 2: TypeError: document.body is null
+1652459080421	Marionette	INFO	Stopped listening on port 50669
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652463871454	geckodriver	INFO	Listening on 127.0.0.1:57431
+1652463874518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57432" "-no-remote" "-profile" "C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofileFpdLFA"
+1652463874869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofileFpdLFA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57432/devtools/browser/4173a695-6ed5-4534-9cdf-49daaa580c79
+1652463876667	Marionette	INFO	Listening on port 57437
+1652463877184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652463885812	Marionette	INFO	Stopped listening on port 57437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652463900511	geckodriver	INFO	Listening on 127.0.0.1:57527
+1652463903578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57528" "-no-remote" "-profile" "C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofileEwMQGB"
+1652463903901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofileEwMQGB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57528/devtools/browser/84e71c23-59c2-4970-a2fc-6bae4f892dd7
+1652463905584	Marionette	INFO	Listening on port 57533
+1652463905622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/40/cmp2ui-en.js, line 2: TypeError: document.body is null
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/40/cmp2ui-en.js, line 2: TypeError: document.body is null
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/40/cmp2ui-en.js, line 2: TypeError: document.body is null
+1652463935867	Marionette	INFO	Stopped listening on port 57533
+[Parent 36348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652464065170	geckodriver	INFO	Listening on 127.0.0.1:57698
+1652464068230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57699" "-no-remote" "-profile" "C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofiley6Yp12"
+1652464068552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofiley6Yp12\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57699/devtools/browser/756b2f1b-47b0-4885-b33e-fcd05dc6e664
+1652464070213	Marionette	INFO	Listening on port 57704
+1652464070275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652464098246	Marionette	INFO	Stopped listening on port 57704
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652465410543	geckodriver	INFO	Listening on 127.0.0.1:57953
+1652465413589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57954" "-no-remote" "-profile" "C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofileL0neLp"
+1652465413940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lanzelit\\AppData\\Local\\Temp\\rust_mozprofileL0neLp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57954/devtools/browser/4e4983e2-11f6-430a-89f2-aff3eb52aeef
+1652465415702	Marionette	INFO	Listening on port 57959
+1652465415781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/40/cmp2ui-en.js, line 2: TypeError: document.body is null
+1652465446136	Marionette	INFO	Stopped listening on port 57959
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 45956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
