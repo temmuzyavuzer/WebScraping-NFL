@@ -15,7 +15,7 @@ Yards gained by pass attempts(Y/A), Passing Touchdowns (TD), Interceptions Throw
 
 ###### Short description of your scraper mechanics 
 - BeautifulSoup:
-Code starts from the main page ('https://stathead.com/tiny/tTuxM')
+Code starts from the [main page]('https://stathead.com/tiny/tTuxM')
 Takes all the players urls in main page and store it into an array which called as “links”
 Scrape players’ career information from the html text of the players urls
 Print it on the console as a dictionary
@@ -36,6 +36,6 @@ Stores the html files of each player inside of folder called all_data
 Scrape their career stats
 Print it on the console as a dictionary
 
-***Data analysis and interpretation part of the project is in the link. :trollface: ***
+***Data analysis and interpretation part of the project is in [the link](Web Scraping - Final Project Description and Analysis.pdf). :trollface: ***
 
 
